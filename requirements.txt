@@ -1,0 +1,12 @@
+# Working dependencies
+fastapi
+uvicorn
+TTS
+numpy
+scipy
+pandas
+
+# These are extracted from Kaggle notebook where TTS works
+# numpy==2.1.1
+# pandas==2.2.2
+# TTS==0.22.0
